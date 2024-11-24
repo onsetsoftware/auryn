@@ -1,8 +1,7 @@
 <?php
 
-namespace Auryn\test;
+namespace Auryn;
 
-use Auryn\Injector;
 use PHPUnit\Framework\TestCase;
 
 require_once __DIR__."/fixtures.php";
